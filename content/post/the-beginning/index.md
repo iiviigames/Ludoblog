@@ -2,7 +2,7 @@
 summary: This is only the beginning...
 draft: false
 authors:
-  - admin
+  - iivii
 lastmod: 2020-12-13T00:00:00Z
 title: LUDOGATION is arriving...
 subtitle: This October, the world's creative essence is in the hands of two friends.
@@ -17,7 +17,7 @@ image:
   caption: ""
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
   filename: spr_watch_out_snake_car_0.png
 ---
 ## Prepare yourself for:

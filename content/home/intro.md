@@ -2,7 +2,7 @@
 widget: about.avatar
 headless: true
 weight: 10
-author: admin
+author: iivii
 widget_id: home
 ---
 # LUDOGATION
