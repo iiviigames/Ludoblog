@@ -58,8 +58,8 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: perldoc
-    theme_dark: monokai
+    theme_light: 'perldoc'
+    theme_dark: 'monokai'
     # theme_dark: dracula
   math:
     enable: false
