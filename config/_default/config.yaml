@@ -15,12 +15,12 @@ cascade:
   - _target:
       path: /post/**
     pager: true
-    editable: true
+    editable: false
     reading_time: true
     commentable: true
     show_related: true
     show_breadcrumb: true
-    share: true
+    share: false
     header:
       navbar:
         enable: false
@@ -61,7 +61,8 @@ permalinks:
   categories: '/category/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  # home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest, headers]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
