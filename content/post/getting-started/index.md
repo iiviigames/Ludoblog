@@ -3,7 +3,6 @@ summary: This is only the beginning...
 draft: false
 authors:
   - admin
-  - 美杨
 lastmod: 2020-12-13T00:00:00Z
 title: LUDOGATION is arriving...
 subtitle: This October, the world's creative essence is in the hands of two friends.

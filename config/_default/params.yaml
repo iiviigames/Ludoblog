@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Podcast
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'A video game podcast.'
+    twitter: 'ludogation'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -41,12 +41,12 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} LUDOGATION'
     license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+      enable: false
+      # allow_derivatives: false
+      # share_alike: true
+      # allow_commercial: false
 
 # Localization
 
@@ -59,7 +59,8 @@ locale:
 features:
   syntax_highlighter:
     theme_light: github-light
-    theme_dark: dracula
+    theme_dark: atom-one-dark
+    # theme_dark: dracula
   math:
     enable: false
   privacy_pack:
@@ -100,4 +101,4 @@ extensions:
     branch: main
     local_backend: false
   academicons:
-    enable: false
+    enable: true
