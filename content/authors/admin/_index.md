@@ -10,7 +10,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/ludogation
   - icon: podcast
-    icon_pack: far
+    icon_pack: fas
     link: https://rss.com/podcasts/ludogation
     label: The Greatest Gaming Podcast in Another Dimension
 organizations:
