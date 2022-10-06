@@ -58,9 +58,10 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: 'perldoc'
-    theme_dark: 'monokai'
-    # theme_dark: dracula
+    # theme_light: 'perldoc'
+    theme_light: github-light
+    # theme_dark: 'monokai'
+    theme_dark: dracula
   math:
     enable: false
   privacy_pack:
