@@ -1,7 +1,7 @@
 ---
 avatar_filename: iivii.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: game developer, programmer, philospher, writer, and prisoner at the whims
+  of a box
 social:
   - icon: raygun
     icon_pack: far
