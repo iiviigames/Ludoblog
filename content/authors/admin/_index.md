@@ -13,9 +13,7 @@ social:
     icon_pack: fas
     link: https://rss.com/podcasts/ludogation
     label: The Greatest Gaming Podcast in Another Dimension
-organizations:
-  - name: ghostwave
-    url: ""
+organizations: []
 superuser: true
 status:
   icon: ☕️
