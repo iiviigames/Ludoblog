@@ -15,9 +15,9 @@ categories:
 projects: []
 image:
   caption: ""
-  focal_point: ""
+  focal_point: TOP
   placement: 2
-  preview_only: true
+  preview_only: false
   filename: featured.png
 ---
 ## Prepare yourself for:
